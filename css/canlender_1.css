@@ -1,0 +1,39 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#box{
+	width: 256px;
+	position: absolute;
+	right:40% ;
+	top: 10%;
+	background: #E3E6E3;
+}
+ul{
+	width: 256px;
+	margin-left: -35px;
+/*	line-height: 1px;*/
+}
+li{
+	list-style: none;
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background: #3F413F;
+    font-family: "宋体";
+    font-weight: bold;
+    color: floralwhite;
+    margin: 5px;
+    float:left;
+}
+
+#bottom{
+	margin: 340px 10px 10px 10px;
+	width: 230px;
+	background:#FFFFFF ;
+}
+.active{
+	background: #FFFFFF;
+	color: orangered;
+}
+
